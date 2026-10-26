@@ -1,0 +1,77 @@
+# TASK 3: CAUSALITY ASSESSMENT OF ADVERSE DRUG REACTIONS
+
+## 1. Objective
+
+To evaluate the relationship between a suspected drug and an observed adverse drug reaction (ADR) using standard causality assessment criteria, including temporal relationship, dechallenge, alternative causes, and rechallenge.
+
+## 2. Introduction
+
+Causality assessment is a systematic process used to determine the likelihood that a suspected drug caused an adverse reaction in a patient. It is an important component of pharmacovigilance because it helps healthcare professionals identify potential drug-related risks and improve medication safety.
+
+The assessment considers the time between drug administration and the onset of the reaction, improvement after discontinuation of the suspected drug, the presence of alternative causes, and recurrence of the reaction following re-exposure when such information is available.
+
+The World Health Organization–Uppsala Monitoring Centre (WHO-UMC) system is widely used for assessing causality in suspected ADR reports.
+
+## 3. Case Study: Amoxicillin-Induced Skin Rash
+
+**Case details taken from the provided image:**
+
+| Parameter          | Details                                    |
+| ------------------ | ------------------------------------------ |
+| Patient            | 45-year-old female                         |
+| Suspected drug     | Amoxicillin                                |
+| Adverse reaction   | Skin rash                                  |
+| Onset              | Three days after starting the drug         |
+| Outcome            | Recovery after discontinuation of the drug |
+| Rechallenge        | Not reported                               |
+| Alternative causes | Not specified                              |
+
+### 4. Causality Assessment
+
+**A. Temporal relationship**
+
+The skin rash developed three days after the initiation of amoxicillin. This establishes a reasonable temporal relationship between drug exposure and the adverse reaction.
+
+**Assessment:** Supports a causal relationship.
+
+**B. Dechallenge**
+
+The patient recovered after discontinuation of amoxicillin. Improvement following withdrawal of the suspected drug supports the possibility that amoxicillin caused the reaction.
+
+**Assessment:** Positive dechallenge; supports causality.
+
+**C. Alternative causes**
+
+The case does not provide information about other medications, concurrent illnesses, infections, or other potential causes of the skin rash. Therefore, alternative explanations cannot be excluded.
+
+**Assessment:** Insufficient information to rule out other causes.
+
+**D. Rechallenge**
+
+There is no information indicating that amoxicillin was administered again and that the rash subsequently recurred. Rechallenge is therefore considered not reported.
+
+**Assessment:** No evidence available to confirm causality through re-exposure.
+
+## 5. Final Causality Classification
+
+**WHO-UMC classification: Probable/Likely**
+
+**Justification:** The skin rash appeared after amoxicillin administration, and the patient recovered after the suspected drug was discontinued. These findings support a causal relationship. However, rechallenge information is unavailable, and alternative causes have not been adequately documented. Based on the information provided, the reaction is best classified as *Probable/Likely*, rather than Certain.
+
+This classification is provisional and may change if additional clinical information becomes available.
+
+## 6. Standard Causality Assessment Categories
+
+The following categories explain how suspected ADRs are classified during causality assessment.
+
+| Category            | Assessment criteria                                                                                                                                                                                             |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Certain**         | A plausible time relationship exists, other causes are unlikely, withdrawal supports the relationship, and the clinical evidence is convincing. Rechallenge may provide additional confirmation when necessary. |
+| **Probable/Likely** | The timing is reasonable, the reaction improves after withdrawal, and alternative explanations are unlikely. Rechallenge is not required.                                                                       |
+| **Possible**        | The timing is reasonable, but the reaction could also be explained by an underlying disease, another medicine, or another cause. Withdrawal information may be unavailable or unclear.                          |
+
+## 7. Conclusion
+
+Causality assessment is essential for evaluating suspected adverse drug reactions and supporting safe medicine use. In the presented case, the temporal relationship between amoxicillin administration and the onset of the skin rash, together with recovery after drug withdrawal, supports a **Probable/Likely** association. However, the absence of information about alternative causes and rechallenge prevents a definitive conclusion.
+
+This case demonstrates the importance of systematic ADR documentation and the application of standardized causality assessment criteria in pharmacovigilance.
