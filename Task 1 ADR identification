@@ -1,0 +1,51 @@
+# Adverse Drug Reaction (ADR) Identification Basics
+
+## Step 1: Review Patient Symptoms and History
+
+**Patient Details:**
+
+* **Age:** 45 years
+* **Sex:** Female
+* **Presenting symptoms:** Skin rash, itching, nausea, and dizziness.
+* **Medication history:** Amoxicillin, started 5 days ago; paracetamol taken as needed.
+
+The patient developed skin and gastrointestinal symptoms while taking medication. A rash and itching may indicate a hypersensitivity reaction, while nausea and dizziness can also occur as adverse effects of certain medicines. Therefore, the patient's symptoms and medication history should be evaluated to determine whether the reaction is drug-related.
+
+## Step 2: Analyze Medication History and Timeline
+
+**Timeline of Events:**
+
+| Day    | Event                                                       |
+| ------ | ----------------------------------------------------------- |
+| Day -5 | The patient started taking amoxicillin.                     |
+| Day -2 | The patient developed rash, itching, nausea, and dizziness. |
+| Day 0  | The patient presented with symptoms for assessment.         |
+
+**Timeline Analysis:**
+
+The patient's symptoms appeared approximately three days after starting amoxicillin. This temporal relationship supports a possible association between amoxicillin use and the reported symptoms. Amoxicillin can cause gastrointestinal adverse effects and allergic reactions, including skin rash and itching.
+
+Paracetamol is another medication in the patient's history and can occasionally cause adverse reactions, including skin reactions and nausea. However, the case does not specify when or how frequently paracetamol was taken relative to symptom onset. Therefore, its contribution cannot be completely excluded.
+
+## Step 3: Identify the Suspected Drug and Determine Whether the Reaction Is Drug-Related
+
+**Most Suspected Drug: Amoxicillin**
+
+Amoxicillin is the leading suspected cause for the following reasons:
+
+1. **Appropriate temporal relationship:** Symptoms developed after amoxicillin treatment began.
+2. **Compatible symptoms:** Rash and itching are consistent with a possible drug-induced hypersensitivity reaction. Nausea and dizziness may also be associated with medication use.
+3. **Clinical plausibility:** Amoxicillin is known to cause skin reactions and gastrointestinal adverse effects.
+4. **Alternative medication:** Paracetamol can also cause adverse reactions, but the available information does not establish a stronger temporal association with its use.
+
+**Assessment of Paracetamol as an Alternative Cause:**
+
+Paracetamol is a possible alternative cause, but there is insufficient information to establish a causal relationship. The exact timing of its use, previous exposure, and any history of drug allergies would help clarify the suspected cause.
+
+**Recommended Clinical Considerations:**
+
+The patient should receive prompt clinical assessment, particularly because rash and itching may indicate an allergic reaction. If the patient has breathing difficulty, swelling of the lips or tongue, throat tightness, or fainting, emergency medical care is required. Further doses of the suspected medicine should be discussed urgently with a healthcare professional.
+
+## Final Conclusion
+
+The patient's symptoms are **suspected to represent an adverse drug reaction (ADR), with amoxicillin being the most likely suspected drug** based on the timing of symptom onset and the known adverse-effect profile of the medicine. Paracetamol remains a possible alternative cause, but the available information is insufficient to establish its involvement. The causal relationship is considered *possible* rather than confirmed because additional clinical information and assessment are required.
